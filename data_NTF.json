@@ -1,0 +1,38 @@
+{
+  "title":"Asset Metadata",
+  "type": "objet",
+  "properties":{
+    "network":{
+      "type": "string",
+      "description": "Tron network - shasta"
+    },
+    "contrato":{
+      "type": "address",
+      "description": "Thasafdghj67a87d8af8e78dwa89h"
+    },
+    "creator":{
+      "type": "address",
+      "owner": "Thasafdghj67a87d8af8e78dwa89h"
+    },
+    "name":{
+      "type":"string",
+      "description":"Identifies the asset to which this NTF represents"
+    },
+    "description":{
+      "type":"string",
+      "description": "Describes the asset to which this NTF represents"
+    },
+    "image":{
+      "type": "string",
+      "link": "url image descritive of NFT"
+    },
+    "zip":{
+      "type": "string",
+      "link": "url zip of NTF"
+    },
+    "Checksum":{
+      "type": "Keccak-512",
+      "data": "0014e0faea7beec86a9d5959a39f45120bac108fd4a2046a170fe29d0624d3a8f8347626a45905b73e1b8d85a5b1e265339bf76486ce91c34ecf72557914c7e9"
+    },
+  }
+}

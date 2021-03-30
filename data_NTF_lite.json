@@ -1,0 +1,12 @@
+{
+  "properties":{
+    "network":"Tron network - shasta",
+    "contrato":"Thasafdghj67a87d8af8e78dwa89h",
+    "creator":"Thasafdghj67a87d8af8e78dwa89h",
+    "name":"Identifies the asset to which this NTF represents",
+    "description":"Describes the asset to which this NTF represents",
+    "CKeccak-512":"0014e0faea7beec86a9d5959a39f45120bac108fd4a2046a170fe29d0624d3a8f8347626a45905b73e1b8d85a5b1e265339bf76486ce91c34ecf72557914c7e9",
+    "original-image":"url image descritive of NFT",
+    "original-zip":"url archive compressed on zip of NTF",
+  }
+}
